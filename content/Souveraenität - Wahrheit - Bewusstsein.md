@@ -10,7 +10,6 @@ layout: post
 draft: false
 ---
 
-# Souveränität, Wahrheit und die Kontrolle über das Bewusstsein
 *Ein Essay über die unsichtbaren Fäden zwischen Recht, Macht und Erkenntnis*
 
 ## Einleitung: Die unsichtbare Ordnung der Dinge
@@ -31,7 +30,7 @@ Der **Westfälische Friede** von 1648 gilt als Geburtsstunde des modernen Staate
 
 ## III. Die Schweiz: Insel der Souveränität oder Spielfeld der Mächte?
 
-Die Schweiz, offiziell seit dem Westfälischen Frieden unabhängig, gilt als Musterbeispiel souveräner Staatlichkeit. Neutral, direktdemokratisch, föderal[^6]. Und doch: Auch hier hinterließ MKULTRA seine Spuren. Auch hier operierten Geheimdienste, wurden Banken zu Werkzeugen globaler Interessen. Die Schweiz ist ein **Knotenpunkt** – nicht weil sie außen steht, sondern weil sie **idealer Durchgangsraum** ist: zwischen Recht und Macht, zwischen Kapital und Information.
+Die Schweiz, offiziell seit dem Westfälischen Frieden unabhängig, gilt als Musterbeispiel souveräner Staatlichkeit. Neutral, direktdemokratisch, föderal[^6]. Und doch: Auch hier operierten Geheimdienste, wurden Banken zu Werkzeugen globaler Interessen. Die Schweiz ist ein **Knotenpunkt** – nicht weil sie außen steht, sondern weil sie **idealer Durchgangsraum** ist: zwischen Recht und Macht, zwischen Kapital und Information.
 
 Was bleibt dann von der vielbeschworenen Neutralität? Vielleicht ist sie nicht Illusion, sondern eine **Strategie des Überlebens im Schatten der Großmächte** – ein anarchokapitalistischer Mikrokosmos, der inmitten eines Leviathans gedeiht.
 
