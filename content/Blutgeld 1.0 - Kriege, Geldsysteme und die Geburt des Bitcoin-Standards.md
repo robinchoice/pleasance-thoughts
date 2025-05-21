@@ -1,3 +1,12 @@
+---
+title: ""
+description: "Teil 1: Der Erste Weltkrieg – Ursprung des monetären Zerfalls"
+created: 2025-05-21
+tags: [Krieg, Bitcoin, Geld, Macht]
+---
+
+# Mein Artikelinhalt
+
 # Teil 1: Der Erste Weltkrieg – Ursprung des monetären Zerfalls
 
 ---
