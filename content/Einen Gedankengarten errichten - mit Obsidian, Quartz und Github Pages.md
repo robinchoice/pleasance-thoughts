@@ -1,5 +1,5 @@
 ---
-title: 
+title: Einen Gedankengarten errichten - mit Obsidian, Quartz und Github Pages
 date: 2025-04-25
 tags:
   - pleasance

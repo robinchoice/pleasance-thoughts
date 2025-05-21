@@ -1,5 +1,5 @@
 ---
-title: 
+title: Souveränität, Wahrheit und die Kontrolle über das Bewusstsein
 date: 2025-04-24
 tags:
   - Philosophie
