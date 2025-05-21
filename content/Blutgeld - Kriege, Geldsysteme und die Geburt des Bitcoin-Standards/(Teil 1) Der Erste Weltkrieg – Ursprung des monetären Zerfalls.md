@@ -1,14 +1,13 @@
 ---
 title: "Teil 1: Der Erste Weltkrieg – Ursprung des monetären Zerfalls"
-description: "Der Erste Weltkrieg – Ursprung des monetären Zerfalls"
+description: Der Erste Weltkrieg – Ursprung des monetären Zerfalls
 created: 2025-05-21
-tags: [Krieg, Bitcoin, Geld, Macht]
+tags:
+  - Krieg
+  - Bitcoin
+  - Geld
+  - Macht
 ---
-
-# Teil 1: Der Erste Weltkrieg – Ursprung des monetären Zerfalls
-
----
-
 ## 1. Prolog: Krieg als Spiegel des Geldes
 
 Die moderne Kriegsführung ist nicht nur ein Ausdruck geopolitischer Interessen, sondern ein ökonomisches Phänomen. Kriege kosten Ressourcen – Blut, Stahl, Energie – aber vor allem: Geld. Und je nachdem, welches Geldsystem herrscht, verändert sich die Fähigkeit von Staaten, Kriege zu beginnen, durchzuhalten und zu gewinnen. Der Erste Weltkrieg markiert die Schwelle vom goldgedeckten Zeitalter zur Ära des weichen Geldes. Ein Bruch, der das 20. Jahrhundert in Flammen setzte.
