@@ -1,6 +1,6 @@
 ---
-title: "Blutgeld 1.0 - Kriege, Geldsysteme und die Geburt des Bitcoin-Standards"
-description: "Teil 1: Der Erste Weltkrieg – Ursprung des monetären Zerfalls"
+title: "Teil 1: Der Erste Weltkrieg – Ursprung des monetären Zerfalls"
+description: "Der Erste Weltkrieg – Ursprung des monetären Zerfalls"
 created: 2025-05-21
 tags: [Krieg, Bitcoin, Geld, Macht]
 ---
