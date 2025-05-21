@@ -101,7 +101,7 @@ Bitcoin ist hartes Geld: endlich, dezentral, nicht inflationierbar. In einem Bit
 
 ## 5. Was folgt?
 
-In Teil 2 analysieren wir den Zweiten Weltkrieg:
+In [[(Teil 2) Der Zweite Weltkrieg - Fiatgeld als totalitäres Werkzeug]] analysieren wir den Zweiten Weltkrieg:
 
 - Wie die USA den Krieg finanzierten und zur Leitwährungsmacht aufstiegen
     

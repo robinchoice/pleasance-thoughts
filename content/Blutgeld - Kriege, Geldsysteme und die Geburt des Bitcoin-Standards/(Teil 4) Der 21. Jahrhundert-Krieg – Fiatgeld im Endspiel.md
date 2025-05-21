@@ -192,7 +192,7 @@ Fiatgeld entkoppelt Entscheidung von Konsequenz:
 ---
 
 ## Ausblick auf Teil 5: Die Bitcoin-Zukunft – Geld ohne Krieg
-Im letzten Teil:
+In [[(Teil 5) Bitcoin-Standard – Die postfiatäre Ordnung der Wahrheit]]:
 
 - Der Übergang in den Bitcoin-Standard: Strategien, Szenarien, geopolitische Dynamiken
     

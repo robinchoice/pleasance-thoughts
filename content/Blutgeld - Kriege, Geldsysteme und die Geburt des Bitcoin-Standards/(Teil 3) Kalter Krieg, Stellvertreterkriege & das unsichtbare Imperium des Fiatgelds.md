@@ -161,3 +161,4 @@ Bitcoin durchbricht dieses Spiel:
     
 - CBDCs, Inflation, Bitcoin als Gegenspieler
     
+Hier gehts weiter: [[(Teil 4) Der 21. Jahrhundert-Krieg – Fiatgeld im Endspiel]]

@@ -139,7 +139,7 @@ In einer Bitcoin-Welt wären Kriege:
 ---
 
 ## 8. Ausblick auf Teil 3: Kalter Krieg und Stellvertreterkriege
-Im nächsten Teil erforschen wir:
+In [[(Teil 3) Kalter Krieg, Stellvertreterkriege & das unsichtbare Imperium des Fiatgelds]] erforschen wir:
 
 - Wie die USA im Kalten Krieg durch Fiat-Expansion ihre Dominanz aufrechterhielt
     

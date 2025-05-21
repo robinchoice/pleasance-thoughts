@@ -191,6 +191,9 @@ Wenn Wahrheit nicht mehr relativ ist – sondern verifizierbar.
 
   
 
-Dann haben wir nicht nur ein neues Geld gefunden.
+Dann haben wir nicht nur ein neues Geld gefunden. Sondern einen neuen Weg, Mensch zu sein.
+___
 
-Sondern einen neuen Weg, Mensch zu sein.
+Doch was genau ist denn eigentlich Geld? 
+
+[[(Teil 6) Bitcoin und die Anthropologie des Geldes – Vom Tausch zur Wahrheit]]
