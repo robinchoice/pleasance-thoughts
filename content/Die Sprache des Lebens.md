@@ -1,6 +1,9 @@
+---
+title: Die Sprache des Lebens
+layout: page
+---
 Coelho nennt es die Sprache der Welt (Lingua do Mundo) – eine Art symbolische Kommunikation zwischen dir und dem Kosmos. Sie spricht nicht in Worten, sondern durch Synchronizitäten, Symbole, Träume, Natur, Begegnungen und Emotionen.
 ## Was ist die „Sprache der Welt“?
-
 „Die Sprache, die kein Alphabet kennt, aber jeder verstehen kann, wenn er mit dem Herzen hört.“
 
 Diese Sprache ist:
@@ -50,17 +53,10 @@ Das Universum antwortet auf dein Tun – nicht auf dein Denken.
 - Gehmeditation ohne Ziel
 - Musik hören ohne Analyse
 - „Zen des Alltags“: Spülen, Schneiden, Atmen als Gebet
-## Zusammengefasst: Deine Praxis
-
-| Ebene     | Praxis                                               |
-| --------- | ---------------------------------------------------- |
-| Herz      | Spüren, was wahr ist. Meditation. Mut zur Intuition. |
-| Verstand  | Archetypen, Mythologie, Symbolsprache studieren      |
-| Handlung  | Intuitive Entscheidungen, achtsames Leben führen     |
-| Beziehung | Zeichen nicht erzwingen, sondern empfangen           |
-| Sprache   | Träume, Synchronizitäten, Naturdeutungen             |
+### 9. Finde heraus, was du wirklich willst
+- Welche Tätigkeiten, Menschen oder Erlebnisse geben dir Energie?
+- Was ist dein ideale Vorstellung vom Leben? 
+- Welche Dinge tauchen immer wieder in deinem Leben auf? Was "verfolgt" dich? 
 
 „Wenn du etwas wirklich willst, dann wird das ganze Universum sich verschwören, damit du es erreichst.“
 – Der Alchimist
-
-Denn das Universum flüstert – und nur ein stilles Herz versteht.
