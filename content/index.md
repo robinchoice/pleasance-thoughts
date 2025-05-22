@@ -10,7 +10,7 @@ Dieser Gedankengarten ist kein fertiges Werk, sondern ein Arbeitsraum. Und viell
 
 Du wirst hier Fundstücke aus Philosophie, Technologie, Ökonomie, Geschichte und Mystik oder auch Themen wie Musik, Selbstoptimierung und ganz persönliche Reflexionen finden – alles, was mich bewegt und was ich in Beziehung zueinander setze. Manche Inhalte sind roh, andere reflektierter. Was sie verbindet, ist der Versuch, das Wesentliche zu erfassen und zugleich offen für Entwicklung zu bleiben.
 
-Was du hier findest, ist kein klassischer Blog oder Tagebuch, sondern ein Garten – in dem du spazieren gehen, verweilen, weiterdenken darfst. Vielleicht findest du etwas, das dich inspiriert. Vielleicht auch etwas, das dich irritiert. Beides ist gewollt. 
+Was du hier findest ist ein Garten – in dem du spazieren gehen, verweilen, weiterdenken darfst. Vielleicht findest du etwas, das dich inspiriert. Vielleicht auch etwas, das dich irritiert. Beides ist gewollt. 
 
 *Pleasance* bedeutet für mich: Raum für das Wesentliche, ohne Lärm, ohne Eile – vielleicht findest du hier ja ein wenig davon. Ich wünsche dir jedenfalls eine angenehme Zeit beim Erkunden. 
 
