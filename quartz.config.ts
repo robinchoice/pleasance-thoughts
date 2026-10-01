@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "de-DE",
     baseUrl: "thoughts.pleasance.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
